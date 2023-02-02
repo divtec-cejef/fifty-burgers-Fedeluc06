@@ -5,9 +5,31 @@
 h1 {
     color:#FDC032
 }
-header{
+
+header {
     text-align: center;
-    background-color: #000;
+    background-color: black;
     padding: 10px;
 }
 
+body{
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    color: black;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+
+header img {
+    max-height: 160px;
+}
+img {
+    border-style: none;
+}
