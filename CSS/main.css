@@ -5,7 +5,9 @@
 h1 {
     color:#FDC032
 }
-.liste{
-
+header{
+    text-align: center;
+    background-color: #000;
+    padding: 10px;
 }
 
